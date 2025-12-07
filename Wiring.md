@@ -23,7 +23,7 @@ But counting the wiring of Ring Intercom Video product, obviously there are 14 w
 This Amazon review gave some good color:  
 <img width="1005" height="624" alt="image" src="https://github.com/user-attachments/assets/603b8984-e66b-4e48-a14d-edbe0783571f" />  
 
-This is a Fermax 3315, by checking around, found a Fermax 3310 [manual](manuals/Fermax%203310%20manual.pdf) (very hard to find), and it shows the functionality of terminals:  
+This is a Fermax 3315, by checking around, found a [Fermax 3310 manual](manuals/Fermax%203310%20manual.pdf) (very hard to find), and it shows the functionality of terminals:  
 1,2,3,6 common audio  
 4 call wire  
 V: live co-axial  
@@ -35,7 +35,7 @@ C-1 to C-8, green wire, lavender wire, C-9 to C-12
 # Color and wire code match
 According to a early 2025 youtube video installing Ring Audio to an old TEGUI intercom, it provides the below wiring colors:
 <img width="510" height="523" alt="image" src="https://github.com/user-attachments/assets/22fa0542-3d63-49da-a8ae-0539ab301a72" />  
-As a bi-product, it's then possible to deduce audio port function for Fermax 3315:
+As a by-product, it's then possible to deduce audio port function for Fermax 3315:
 1 for UNLOCK, 2 for AOUT, 3 for GROUND, 6 for AIN
 
 # How the door unlock signal is sent in BPT systems
