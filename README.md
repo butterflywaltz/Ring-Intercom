@@ -14,3 +14,5 @@ Checking for YKP/200+YV(YVC) shows compatible:
 # Objective
 The goal is to figure out whether it's really compatible or not and find out wiring before commiting purchase
 
+# Conclusion
+It is indeed compatible, see [Installation](Installation.md)
