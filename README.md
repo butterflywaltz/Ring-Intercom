@@ -16,3 +16,8 @@ The goal is to figure out whether it's really compatible or not and find out wir
 
 # Conclusion
 It is indeed compatible, see [Installation](Installation.md)
+
+# Battery life
+Depends on usage and installation, 1 ring per weekday and both analog installation give below:
+Audio version, 100% to 30% took 8 months
+Video version, 100% to 30% took 6 months
